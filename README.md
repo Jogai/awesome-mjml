@@ -26,6 +26,7 @@
 - [MJML with React](https://github.com/wix-incubator/mjml-react)
 - [MJML with dotnet](https://github.com/SebastianStehle/mjml-net)
 - [MJML editor in React](https://github.com/zalify/easy-email-editor)
+- [MJML editor in TypeScript](https://github.com/GrapesJS/mjml)
 
 # Email templates collections
 
