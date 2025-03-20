@@ -24,11 +24,14 @@
 - [MJML with Ruby on Rails](https://github.com/sighmon/mjml-rails)
 - [MJML with Ruby](https://github.com/hardpixel/mrml-ruby)
 - [MJML with React](https://github.com/wix-incubator/mjml-react)
+- [MJML with dotnet](https://github.com/SebastianStehle/mjml-net)
+- [MJML editor in React](https://github.com/zalify/easy-email-editor)
 
 # Email templates collections
 
 - [MJML official templates](https://github.com/mjmlio/email-templates)
 - [Recontent.app templates](https://github.com/recontentapp/mjml-templates)
+- [Easy email Pro templates](https://github.com/Easy-Email-Pro/email-templates/)
 
 ## Email inspirations
 
